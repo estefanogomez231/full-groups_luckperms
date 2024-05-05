@@ -6,30 +6,43 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
   - **Rangos Estilos Medievales | Commands GUI:**
 
 
-    << Creando GRUPOS MEDIEVALES >>
+# Creando GRUPOS MEDIEVALES 
 
+**Paso #1 | Creando GRUPOS MEDIEVALES**
 ```
     /lp creategroup siervo
 ```
 
-
+**Paso #2 | Creando GRUPOS MEDIEVALES**
 ```
     /lp creategroup campesino
 ```
 
+**Paso #3 | Creando GRUPOS MEDIEVALES**
+```
     /lp creategroup soldado
+```
 
-
+**Paso #4 | Creando GRUPOS MEDIEVALES**
+```
     /lp creategroup abades
+```
 
-
+**Paso #5 | Creando GRUPOS MEDIEVALES**
+```
     /lp creategroup senior
+```
 
-
+**Paso #6 | Creando GRUPOS MEDIEVALES**
+```
     /lp creategroup caballero
+```
 
+**Paso #7 | Creando GRUPOS MEDIEVALES**
+```
     /lp creategroup alto-prelado
 ```
+
 **Paso #8 | Creando GRUPOS MEDIEVALES**
 ```
     /lp creategroup conde
@@ -44,8 +57,9 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
 ```
     /lp creategroup rey
 ```
+
 -
-    <<Asignando PERMISOS PARA LOS RANGOS>>
+    **ASIGNANDO PERMISOS PARA LOS RANGOS**
 
     PASOS REQUERIDOS ANTES DE EJECUTAR LOS COMANDOS:
     
