@@ -3,7 +3,7 @@ Full config groups with LuckPerms
 
 Aca esta la lista de comandos a seguir para cada estilo de grupos:
 
-  - Rangos Estilos Medievales | Commands GUI:
+  - **Rangos Estilos Medievales | Commands GUI:**
 
 
     << Creando GRUPOS MEDIEVALES >>
@@ -16,11 +16,11 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
     #7 > /lp creategroup alto-prelado
     #8 > /lp creategroup conde
     #9 > /lp creategroup duque
-    ```
-    aasadad
-    ```
----
+
+**Paso #10 | Creando GRUPOS MEDIEVALES**    
+```
     /lp creategroup rey
+```
 -
     <<Asignando PERMISOS PARA LOS RANGOS>>
 
