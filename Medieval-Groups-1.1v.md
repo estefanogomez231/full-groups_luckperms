@@ -7,15 +7,38 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
 
 
     << Creando GRUPOS MEDIEVALES >>
-    #1 > /lp creategroup siervo
-    #2 > /lp creategroup campesino
-    #3 > /lp creategroup soldado
-    #4 > /lp creategroup abades
-    #5 > /lp creategroup senior
-    #6 > /lp creategroup caballero
-    #7 > /lp creategroup alto-prelado
-    #8 > /lp creategroup conde
-    #9 > /lp creategroup duque
+
+```
+    /lp creategroup siervo
+```
+
+
+```
+    /lp creategroup campesino
+```
+
+    /lp creategroup soldado
+
+
+    /lp creategroup abades
+
+
+    /lp creategroup senior
+
+
+    /lp creategroup caballero
+
+    /lp creategroup alto-prelado
+```
+**Paso #8 | Creando GRUPOS MEDIEVALES**
+```
+    /lp creategroup conde
+```
+
+**Paso #9 | Creando GRUPOS MEDIEVALES**
+```
+    /lp creategroup duque
+```
 
 **Paso #10 | Creando GRUPOS MEDIEVALES**    
 ```
