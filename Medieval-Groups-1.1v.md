@@ -16,6 +16,7 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
     #7 > /lp creategroup alto-prelado
     #8 > /lp creategroup conde
     #9 > /lp creategroup duque
+    ```aasadad```
 ---
     /lp creategroup rey
 -
