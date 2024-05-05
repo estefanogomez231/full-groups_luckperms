@@ -5,7 +5,7 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
 
   - Rangos Estilos Medievales | Commands GUI:
 
--------------------------------------------------
+
     << Creando GRUPOS MEDIEVALES >>
     #1 > /lp creategroup siervo
     #2 > /lp creategroup campesino
@@ -16,8 +16,9 @@ Aca esta la lista de comandos a seguir para cada estilo de grupos:
     #7 > /lp creategroup alto-prelado
     #8 > /lp creategroup conde
     #9 > /lp creategroup duque
-    #10 > /lp creategroup rey
--------------------------------------------------    
+---
+    /lp creategroup rey
+-
     <<Asignando PERMISOS PARA LOS RANGOS>>
 
     PASOS REQUERIDOS ANTES DE EJECUTAR LOS COMANDOS:
